@@ -2,12 +2,12 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
+💻 Eu sou um desenvolvedor Fullstack
 
 
 🎓 Eu estudo:
   <ul>
-    <li>[Desenvolvimento de Software Fullstack](https://www.linkedin.com/feed/update/urn:li:activity:7040076882905640960/) | [ [Driven Education](https://www.driven.com.br/)]
+    <li>Desenvolvimento de Software Fullstack | Driven Education | Concluído em Março/23</li>
     <li>Ciência da Computação | IFSEMG Câmpus Rio Pomba | 4º Período</li>
   </ul>
   
