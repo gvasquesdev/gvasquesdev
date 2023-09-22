@@ -5,8 +5,12 @@
 💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
 
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://www.linkedin.com/feed/update/urn:li:activity:7040076882905640960/) | [ [Driven Education](https://www.driven.com.br/) | IFSEMG | Câmpus Rio Pomba | Ciência da Computação]
-
+🎓 Eu estudo:
+  <ul>
+    <li>[[Desenvolvimento de Software Fullstack](https://www.linkedin.com/feed/update/urn:li:activity:7040076882905640960/) | [ [Driven Education](https://www.driven.com.br/)]
+    <li>Ciência da Computação | IFSEMG Câmpus Rio Pomba | 4º Período</li>
+  </ul>
+  
 🔎 Também sou curioso sobre [Desenvolvimento mobile]
 
 ✒️ Eu gosto de no meu tempo livre [Ler, caminhar, assistir seriados, jogar]
