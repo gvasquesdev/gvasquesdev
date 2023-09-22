@@ -9,7 +9,7 @@
 
 🔎 Também sou curioso sobre [Desenvolvimento mobile]
 
-✒️ Eu gosto de no meu tempo livre [Ler, caminhar, assistir seriados, jogar];
+✒️ Eu gosto de no meu tempo livre [Ler, caminhar, assistir seriados, jogar]
 
 📚 Lendo: [Entendendo Algoritmos, de Aditya Y. Bhargava]
 
