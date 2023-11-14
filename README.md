@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Fullstack
+💻 Eu sou um desenvolvedor Web Fullstack
 
 
 🎓 Eu estudo:
@@ -11,7 +11,7 @@
     <li>Ciência da Computação | IFSEMG Câmpus Rio Pomba | 4º Período</li>
   </ul>
 
-✒️ Eu gosto de no meu tempo livre [Ler, caminhar, assistir seriados, tênis de mesa e jogar]
+✒️ Eu gosto de no meu tempo livre [Ler, caminhar, assistir seriados, tênis de mesa e FPS]
 
 📚 Lendo: [Entendendo Algoritmos, de Aditya Y. Bhargava]
 
