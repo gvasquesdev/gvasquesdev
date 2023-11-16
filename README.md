@@ -2,10 +2,10 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Web Fullstack
+💻 Eu sou desenvolvedor Web Fullstack
 
 
-🎓 Eu estudo:
+🎓 Formação Técnica e Acadêmica:
   <ul>
     <li>Desenvolvimento de Software Fullstack | Driven Education | Concluído em Março/23</li>
     <li>Ciência da Computação | IFSEMG Câmpus Rio Pomba | 4º Período</li>
