@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou desenvolvedor Web Fullstack
+💻 Desenvolvedor Web Fullstack
 
 
 🎓 Formação Técnica e Acadêmica:
