@@ -11,7 +11,7 @@
     <li>Ciência da Computação | IFSEMG Câmpus Rio Pomba | 4º Período</li>
   </ul>
 
-✒️ Eu gosto de no meu tempo livre [Ler, caminhar, assistir seriados, tênis de mesa e FPS]
+✒️ Eu gosto de no meu tempo livre: [Ler, caminhar, assistir seriados, tênis de mesa e FPS]
 
 📚 Lendo atualmente: [O Programador Pragmático, de Andrew Hunt e David Thomas]
 
