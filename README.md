@@ -8,7 +8,7 @@
 🎓 Formação Técnica e Acadêmica:
   <ul>
     <li>Desenvolvimento de Software Fullstack | Driven Education | Concluído em Março/23</li>
-    <li>Ciência da Computação | IFSEMG Câmpus Rio Pomba | 4º Período</li>
+    <li>Ciência da Computação | IFSEMG Câmpus Rio Pomba | 5º Período</li>
   </ul>
 
 ✒️ Eu gosto de no meu tempo livre: [Ler, caminhar, assistir seriados, tênis de mesa e FPS]
