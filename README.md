@@ -13,8 +13,6 @@
 
 ✒️ Eu gosto de no meu tempo livre: [Ler, caminhar, assistir seriados, tênis de mesa e FPS]
 
-📚 Lendo atualmente: [O Programador Pragmático, de Andrew Hunt e David Thomas]
-
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
