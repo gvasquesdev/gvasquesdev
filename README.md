@@ -8,7 +8,7 @@
 🎓 Formação Técnica e Acadêmica:
   <ul>
     <li>Desenvolvimento de Software Fullstack | Driven Education | Concluído em Março/23</li>
-    <li>Sistemas de Informação | Universidade Santa Cecília - UNISANTA | 3º Período</li>
+    <li>Bacharelado em Sistemas de Informação | Universidade Santa Cecília - UNISANTA | 3º Período</li>
   </ul>
   
 ### Eu já trabalhei com... 🔧
