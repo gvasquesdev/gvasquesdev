@@ -8,11 +8,9 @@
 🎓 Formação Técnica e Acadêmica:
   <ul>
     <li>Desenvolvimento de Software Fullstack | Driven Education | Concluído em Março/23</li>
-    <li>Ciência da Computação | IFSEMG Câmpus Rio Pomba | 5º Período</li>
+    <li>Sistemas de Informação | Universidade Santa Cecília - UNISANTA | 3º Período</li>
   </ul>
-
-✒️ Eu gosto de no meu tempo livre: [Ler, caminhar, assistir seriados, tênis de mesa e FPS]
-
+  
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
@@ -28,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Eu estou estudando... 🧩
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))
 
 ### GitHub Stats ⚡
 <div>
