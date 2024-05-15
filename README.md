@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Desenvolvedor Backend
+💻 Desenvolvedor Back-end
 
 
 🎓 Formação Técnica e Acadêmica:
