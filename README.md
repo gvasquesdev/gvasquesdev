@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Eu estou estudando... 🧩
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
 
 ### Entre em contato comigo! 📭
